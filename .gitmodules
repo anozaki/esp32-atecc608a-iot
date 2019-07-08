@@ -1,0 +1,6 @@
+[submodule "external/esp-idf"]
+	path = external/esp-idf
+	url = git@github.com:espressif/esp-idf.git
+[submodule "external/esp-aws-iot"]
+	path = external/esp-aws-iot
+	url = git@github.com:espressif/esp-aws-iot.git
