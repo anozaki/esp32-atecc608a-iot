@@ -20,3 +20,14 @@ idf.py flash monitor
 ```
 
 
+## TODO
+
+* Provisioning process (integrated with esp32)
+    * Generate private key on ATECC608A
+    * Generate CSR
+        * pull from ESP32
+        * generate certificate
+    * Load certificate on ATECC608A
+* Provisioning process (preloaded)
+    * Maybe with FT2232H?    
+* Custom boot loader using ATECC608A (maybe)?

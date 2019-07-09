@@ -4,3 +4,6 @@
 [submodule "external/esp-aws-iot"]
 	path = external/esp-aws-iot
 	url = git@github.com:espressif/esp-aws-iot.git
+[submodule "external/cryptoauthlib"]
+	path = external/cryptoauthlib
+	url = git@github.com:MicrochipTech/cryptoauthlib.git
